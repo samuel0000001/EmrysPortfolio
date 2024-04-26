@@ -617,7 +617,7 @@ footer span a:hover{
         min-height: 500px;
         background-attachment: fixed;
         font-family: 'Ubuntu', sans-serif;
-        background-size: 100% 70%;
+        background-size: 100% 80%;
         height: 100vh;
         background-position-y: top;
     }
@@ -634,7 +634,7 @@ footer span a:hover{
         min-height: 500px;
         background-attachment: fixed;
         font-family: 'Ubuntu', sans-serif;
-        background-size: 100% 70%;
+        background-size: 100% 80%;
         height: 100vh;
         background-position-y: top;
     }
@@ -647,7 +647,7 @@ footer span a:hover{
         min-height: 500px;
         background-attachment: fixed;
         font-family: 'Ubuntu', sans-serif;
-        background-size: 100% 70%;
+        background-size: 100% 80%;
         height: 100vh;
         background-position-y: top;
     }
@@ -723,7 +723,7 @@ footer span a:hover{
         min-height: 500px;
         background-attachment: fixed;
         font-family: 'Ubuntu', sans-serif;
-        background-size: 100% 70%;
+        background-size: 100% 80%;
         height: 100vh;
         background-position-y: top;
     }
@@ -745,6 +745,17 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+        .home{
+        display: flex;
+        background: url("./portfolio-images/89fbc3f4-26e6-4f7c-ad21-23c2563f014c.jpg") no-repeat center;
+        color: #fff;
+        min-height: 500px;
+        background-attachment: fixed;
+        font-family: 'Ubuntu', sans-serif;
+        background-size: 100% 80%;
+        height: 100vh;
+        background-position-y: top;
+    }
     .home .home-content .text-2{
         font-size: 50px;
     }
